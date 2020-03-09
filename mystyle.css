@@ -4,7 +4,9 @@ body {
   
   h1 {
     font-family: 'Oxanium', cursive;  
+    font-size: larger;
     color: black;
+    text-transform: uppercase;
     text-align: center;
   }
   
