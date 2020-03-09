@@ -1,0 +1,15 @@
+body {
+  background-color: #d1b89d;
+}
+
+h1 {
+  font-family: 'Oxanium', cursive;  
+  font-size: 200%;
+  color: black;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
